@@ -15,7 +15,7 @@
   
   <license file="LICENSE">LGPLv2.1</license>
 
-  <url type="repository">https://github.com/Francisco-Rosa/FreeCAD-Movie</url>
+  <url type="repository" branch="master">https://github.com/Francisco-Rosa/FreeCAD-Movie</url>
 
   <url type="readme">https://github.com/Francisco-Rosa/FreeCAD-Movie</url>
 
